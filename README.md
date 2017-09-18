@@ -40,4 +40,4 @@ Open you <code>js</code> folder and create 3 sub files inside there.
 
 <a href="https://www.technologyshouters.com/wp-content/uploads/2017/09/Javascript-snake-game-Technology-shouters.png"><img src="https://www.technologyshouters.com/wp-content/uploads/2017/09/Javascript-snake-game-Technology-shouters.png" alt="Javascript snake game - Technology shouters" width="245" height="265" class="alignnone size-full wp-image-1262" /></a>
 
-<h1>For complete article please check<a href="https://www.technologyshouters.com/build-javascript-snake-game-easily-technology-shouters/">Javascript Snake Game - Tenchnology shouters</a></h1>
+<h1>For complete article please check <a href="https://www.technologyshouters.com/build-javascript-snake-game-easily-technology-shouters/">Javascript Snake Game - Technology shouters</a></h1>
